@@ -1,0 +1,19 @@
+.title-table{    
+background-color: rgb(188, 204, 233);
+padding: 0.5rem;
+width: 8rem;
+height: 2.5rem;
+text-align: center;
+border-radius: 4px;
+}
+
+.search-input{
+    padding: 0.5rem;
+    width: 8rem; 
+    height: 2.5rem;
+}
+
+.card{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+

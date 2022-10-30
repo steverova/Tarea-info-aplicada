@@ -1,0 +1,5 @@
+export function MasterPage(body){
+
+    
+
+}

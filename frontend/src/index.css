@@ -1,0 +1,183 @@
+/*body {
+  margin: 0;
+  font-family: "Times New Roman", Times, serif;
+
+  background-color: #8502FF;
+  background-image: url("https://marketplace.canva.com/EAEK4dC2olw/1/0/1600w/canva-arco%C3%ADris-gradiente-rosa-y-naranja-fondo-virtual-para-zoom-c3PYha1JI9M.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.card-selection {
+  position: sticky;
+  z-index: 99;
+  top: 0;
+}
+
+.navbar {
+  width: 100%;
+}
+
+.table-head {
+  position: sticky;
+  z-index: 99;
+  top: 0;
+}
+
+tr:hover{
+  background-color: rgb(0, 105, 217);
+  transform: scale(1.02);
+  transition: transform 1s ease;
+  font-weight: 600;
+  color: aliceblue;
+}
+
+tr:not(hover){
+  transform: scale(1);
+  transition: transform 1s ease;
+}
+*/
+
+/*Body*/
+body {
+  font-family: 'Roboto', sans-serif;
+  background-image: url("https://marketplace.canva.com/EAEK4dC2olw/1/0/1600w/canva-arco%C3%ADris-gradiente-rosa-y-naranja-fondo-virtual-para-zoom-c3PYha1JI9M.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+
+
+}
+
+/*Navbar*/
+.navbar {
+  width: 100%;
+}
+
+/*Table*/
+.table-head {
+  position: sticky;
+  z-index: 99;
+  top: 0;
+}
+
+tbody tr:hover{
+  background-color:rgb(209, 209, 209);
+  transition: transform 1s ease;
+  font-weight: 600;
+}
+
+tbody tr:not(hover){
+  transition: transform 1s ease;
+}
+
+/*Select registers*/
+.card-selection {
+  position: sticky;
+  z-index: 99;
+  top: 0;
+}
+
+/*Login*/
+
+
+.image {
+  height: 120px;
+  width: 120px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.card-login{
+  margin-top: 6em;
+}
+
+.button{
+  font-family: "Times New Roman", Times, serif;
+  background-color: #6abfdb;
+  border-radius: 4px;
+  border: none;
+  color: white;
+  padding: 3px 6px;
+  margin: 2px;
+}
+
+.btn-red {
+  background-color: rgb(197, 66, 84);
+
+}
+
+.btn-blue {
+  background-color: rgb(47, 125, 199);
+
+}
+
+.btn{
+  z-index: 99;
+}
+
+.btn-ligtpurple {
+  background-color: rgb(183, 188, 225)
+
+}
+
+
+
+.div{
+  margin-top: 0.5em;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.btn-pink{
+  background-color: rgb(231, 205, 228);
+  
+}
+
+.search-input{
+  width: 60%;
+  
+}
+
+p{
+  margin: 0;
+}
+
+.footer{
+  background-color: blue;
+}
+
+.bttn{
+    background-color: rgb(129, 142, 190);
+      /* Green */
+      border: none;
+      color: white;
+      padding: 8px 16px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      
+}
+
+.bttn:hover{
+    background-color: rgb(194, 27, 69);
+}
+
+.border-rigth{
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.card{
+  background-color: #fff8ff;
+}
+
+
+
+
+/*Others*/
